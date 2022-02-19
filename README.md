@@ -1,4 +1,4 @@
 - Hi, my name is Ethan Holter
-- Im a highschool senior from the Des Moines area
+- Im a highschool senior from Johnston IA
 - I have experience with javascript, java, and python
 - I can be reached at holterethan@gmail.com
