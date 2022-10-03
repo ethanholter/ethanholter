@@ -1,4 +1,4 @@
 - Hi, my name is Ethan Holter
-- Im a highschool senior from Johnston IA
-- I have experience with javascript, java, and python
-- I can be reached at holterethan@gmail.com
+- Im an freshman at the University of Iowa pursuing a degree in Computer Science and Engineering
+- I have experience with Javascript, Java, and Python
+- I can be reached at eholter@uiowa.edu
