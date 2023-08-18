@@ -1,4 +1,1 @@
-- Hi, my name is Ethan Holter
-- Im an freshman at the University of Iowa pursuing a degree in Computer Science and Engineering
-- I have experience with Javascript, Java, and Python
-- I can be reached at eholter@uiowa.edu
+
