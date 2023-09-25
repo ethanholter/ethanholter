@@ -1,4 +1,4 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/ethanholter">
     <img src="https://streak-stats.demolab.com?user=ethanholter&theme=dark&border_radius=10"/></a>
 </p>
